@@ -1,5 +1,16 @@
 # Getting Started with Create React App
-https://genuine-bavarois-5f4345.netlify.app/
+https://main--merncrud14.netlify.app/
+# preview
+![image](https://github.com/user-attachments/assets/db66bf72-962c-4733-9f83-4aa5221cc5d1)
+
+# View Page
+
+![image](https://github.com/user-attachments/assets/d9d34637-6ec9-4ca6-a436-6c8fa3365651)
+
+# Add User Page
+
+![image](https://github.com/user-attachments/assets/91931bd0-92a0-4b3d-b9b9-b04da06599ab)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
